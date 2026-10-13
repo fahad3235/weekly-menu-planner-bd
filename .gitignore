@@ -1,0 +1,9 @@
+# Weekly Menu Planner BD - text-only static site
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+.vscode/
+.idea/
